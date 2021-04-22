@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #fff9fb;
+  background-color: #bb0a21;
+  margin: 1vh;
+  padding: 1vh;
+  border-radius: 1vh;
+  height: 5vh;
+  width: 10vw;
+  align-content: center;
+}
+
+.header .title {
+  font-size: 1vw;
+  font-weight: 600;
+}
+
+.header .portfolio__value {
+}
